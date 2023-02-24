@@ -5,7 +5,8 @@
     <artifactId>maven-dependent</artifactId>
     <packaging>jar</packaging>
     <version>1.0</version>
-
+    <url>https://github.com/bigdaz/maven-dependent</url>
+    
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
